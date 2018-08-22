@@ -1,0 +1,1 @@
+This is a ruby program that will allow you to list, find, and add restaurants. You will be able to sort by various commands as well.
