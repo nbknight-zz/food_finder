@@ -1,0 +1,4 @@
+BarVeCue	Vegan BBQ	12
+Taco Bell	Mexican	8
+red robin	burgers	10
+olive garden	italian	16
